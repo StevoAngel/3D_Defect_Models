@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/623007146142380676/9cdcb4585d734b54a62b1f299143434a/artifacts
+end_time: 1762034243590
+entry_point_name: ''
+experiment_id: '623007146142380676'
+lifecycle_stage: active
+run_id: 9cdcb4585d734b54a62b1f299143434a
+run_name: 'Second Try: Decreasing the latent space to 64'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762030591172
+status: 3
+tags: []
+user_id: estiv
