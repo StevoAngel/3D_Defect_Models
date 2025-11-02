@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/913916633853888733/99fcc9236b1f4bfcbf894b9ded0b31f8/artifacts
+deleted_time: 1762054342865
+end_time: 1762038544919
+entry_point_name: ''
+experiment_id: '913916633853888733'
+lifecycle_stage: deleted
+run_id: 99fcc9236b1f4bfcbf894b9ded0b31f8
+run_name: 'Try: Decreasing the latent dims to 64 with weight_decay=1e-5'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762038540037
+status: 4
+tags: []
+user_id: estiv

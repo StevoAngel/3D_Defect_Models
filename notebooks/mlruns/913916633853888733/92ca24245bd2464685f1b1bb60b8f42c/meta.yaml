@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/913916633853888733/92ca24245bd2464685f1b1bb60b8f42c/artifacts
+end_time: 1762045616473
+entry_point_name: ''
+experiment_id: '913916633853888733'
+lifecycle_stage: active
+run_id: 92ca24245bd2464685f1b1bb60b8f42c
+run_name: 'Try: Decreasing the latent dims to 64 usign warmup and main schedulers
+  and BatchNorm between the layers'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762041951018
+status: 3
+tags: []
+user_id: estiv
