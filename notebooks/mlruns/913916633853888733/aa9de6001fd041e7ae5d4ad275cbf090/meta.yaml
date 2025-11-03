@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/913916633853888733/aa9de6001fd041e7ae5d4ad275cbf090/artifacts
+deleted_time: 1762123508645
+end_time: 1762123498262
+entry_point_name: ''
+experiment_id: '913916633853888733'
+lifecycle_stage: deleted
+run_id: aa9de6001fd041e7ae5d4ad275cbf090
+run_name: 'Try: making kl_div more important than recon_loss by increasing max_beta
+  to 10'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762123281103
+status: 4
+tags: []
+user_id: estiv

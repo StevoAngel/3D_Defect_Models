@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/913916633853888733/5dedd54bb3bc4a1fa1a07c78723645e1/artifacts
+end_time: 1762123184241
+entry_point_name: ''
+experiment_id: '913916633853888733'
+lifecycle_stage: active
+run_id: 5dedd54bb3bc4a1fa1a07c78723645e1
+run_name: 'Try: Decreasing max_beta, beta_annealing and kl_threshold'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121260128
+status: 4
+tags: []
+user_id: estiv
