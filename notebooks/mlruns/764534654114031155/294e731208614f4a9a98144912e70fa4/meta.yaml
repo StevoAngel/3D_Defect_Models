@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/294e731208614f4a9a98144912e70fa4/artifacts
+deleted_time: 1763448326604
+end_time: 1763448039513
+entry_point_name: ''
+experiment_id: '764534654114031155'
+lifecycle_stage: deleted
+run_id: 294e731208614f4a9a98144912e70fa4
+run_name: 'Try: Change image domain - NO model saved'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763447410257
+status: 4
+tags: []
+user_id: estiv

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/c87d86fc45fc40af9308521e3cad4fbb/artifacts
+end_time: 1763443665881
+entry_point_name: ''
+experiment_id: '764534654114031155'
+lifecycle_stage: active
+run_id: c87d86fc45fc40af9308521e3cad4fbb
+run_name: 'Try: Decreasing NDF to 32 - NO model saved'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763443585855
+status: 3
+tags: []
+user_id: estiv

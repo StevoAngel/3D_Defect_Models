@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/d4162c7658b5409fae466a81270c997f/artifacts
+end_time: 1763447351274
+entry_point_name: ''
+experiment_id: '764534654114031155'
+lifecycle_stage: active
+run_id: d4162c7658b5409fae466a81270c997f
+run_name: 'Try: Change image domain and batch size - NO model saved'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763446712346
+status: 3
+tags: []
+user_id: estiv

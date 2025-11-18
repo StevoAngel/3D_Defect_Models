@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/ad56dcb689694a1c8e6a05535ae6f0ee/artifacts
+end_time: 1763441747341
+entry_point_name: ''
+experiment_id: '764534654114031155'
+lifecycle_stage: active
+run_id: ad56dcb689694a1c8e6a05535ae6f0ee
+run_name: 'Try: Add noise to real and fake images in discriminator - NO model saved'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763441666077
+status: 3
+tags: []
+user_id: estiv

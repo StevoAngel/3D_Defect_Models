@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/2f5783955d15468fa52eaf6d75536b58/artifacts
+end_time: 1763450061612
+entry_point_name: ''
+experiment_id: '764534654114031155'
+lifecycle_stage: active
+run_id: 2f5783955d15468fa52eaf6d75536b58
+run_name: 'Try: Back to vanilla DCGAN (all parameters as first try)'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763449398761
+status: 3
+tags: []
+user_id: estiv
