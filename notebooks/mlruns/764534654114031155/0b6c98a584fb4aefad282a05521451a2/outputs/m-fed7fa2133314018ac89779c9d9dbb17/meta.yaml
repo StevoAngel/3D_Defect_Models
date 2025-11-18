@@ -1,0 +1,6 @@
+destination_id: m-fed7fa2133314018ac89779c9d9dbb17
+destination_type: MODEL_OUTPUT
+source_id: m-fed7fa2133314018ac89779c9d9dbb17
+source_type: RUN_OUTPUT
+step: 0
+tags: {}
