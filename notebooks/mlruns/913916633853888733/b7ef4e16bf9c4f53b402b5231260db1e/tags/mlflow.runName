@@ -1,1 +1,0 @@
-Try: Decreasing the latent dims to 32 usign warmup and main schedulers and BatchNorm between the layers
