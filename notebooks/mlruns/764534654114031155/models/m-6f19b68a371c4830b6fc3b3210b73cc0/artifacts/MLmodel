@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/764534654114031155/models/m-6f19b68a371c4830b6fc3b3210b73cc0/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.18
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.8.0+cu129
+mlflow_version: 3.5.1
+model_id: m-6f19b68a371c4830b6fc3b3210b73cc0
+model_size_bytes: 51178072
+model_uuid: m-6f19b68a371c4830b6fc3b3210b73cc0
+prompts: null
+run_id: 1517778327ab4dd3bd3ca8504733fb43
+utc_time_created: '2025-11-29 21:14:48.526014'

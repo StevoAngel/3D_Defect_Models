@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/342282152413126156/models/m-75deb3a13ff94cd6ae0e051108193ac1/artifacts
+creation_timestamp: 1764461936169
+experiment_id: '342282152413126156'
+last_updated_timestamp: 1764461939082
+model_id: m-75deb3a13ff94cd6ae0e051108193ac1
+model_type: null
+name: model_generator
+source_run_id: d3ccf8a402be4c969fb027144ed35e87
+status: 2
+status_message: null

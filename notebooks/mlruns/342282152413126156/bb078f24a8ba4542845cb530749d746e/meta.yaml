@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/estiv/OneDrive/Documents/Projects/3D_Defect_Models/notebooks/mlruns/342282152413126156/bb078f24a8ba4542845cb530749d746e/artifacts
+end_time: 1764461246143
+entry_point_name: ''
+experiment_id: '342282152413126156'
+lifecycle_stage: active
+run_id: bb078f24a8ba4542845cb530749d746e
+run_name: 'Try: Vanilla DCGAN for casting pieces'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764461175612
+status: 3
+tags: []
+user_id: estiv
